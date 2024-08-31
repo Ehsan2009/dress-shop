@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91172929234",
+    "project_id": "cloth-shop-app-def48",
+    "storage_bucket": "cloth-shop-app-def48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91172929234:android:7c22fd0a3bc2d894bfb70b",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqsT23_gs-59gRcHFA0iwtC35lAh_hezU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

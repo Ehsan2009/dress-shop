@@ -5,6 +5,7 @@ import 'package:shop_app/screens/details_screen.dart';
 import 'package:shop_app/screens/favorite_screen.dart';
 import 'package:shop_app/screens/home_screen.dart';
 import 'package:shop_app/screens/auth_screen.dart';
+import 'package:shop_app/screens/introduction_screen.dart';
 import 'package:shop_app/screens/order_screen.dart';
 import 'package:shop_app/screens/profile_screen.dart';
 import 'package:shop_app/screens/settings_screen.dart';
@@ -22,6 +23,10 @@ final router = GoRouter(
     GoRoute(
       path: '/',
       builder: (context, state) => const SplashScreen(),
+    ),
+    GoRoute(
+      path: '/introduction_screen',
+      builder: (context, state) => const IntroductionScreen(),
     ),
     GoRoute(
       path: '/auth_screen',

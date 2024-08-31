@@ -2,6 +2,8 @@
 
 A dress shop application built using Flutter, featuring Firebase authentication, Firestore database, and Go Router for navigation.
 
+https://github.com/user-attachments/assets/3ac0bdb3-6e8c-441e-980a-d943992bc5c5
+
 ## Table of Contents
 
 - [Description](#description)
